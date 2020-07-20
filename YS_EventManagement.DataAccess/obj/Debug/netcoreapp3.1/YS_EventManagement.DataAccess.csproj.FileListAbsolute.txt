@@ -1,0 +1,15 @@
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.DataAccess\bin\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.deps.json
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.DataAccess\bin\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.dll
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.DataAccess\obj\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.csprojAssemblyReference.cache
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.DataAccess\obj\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.DataAccess\obj\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.AssemblyInfo.cs
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.DataAccess\bin\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.pdb
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.DataAccess\bin\Debug\netcoreapp3.1\YS_EventManagement.Entities.dll
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.DataAccess\bin\Debug\netcoreapp3.1\YS_EventManagement.Entities.pdb
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.DataAccess\obj\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.csproj.CopyComplete
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.DataAccess\obj\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.dll
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.DataAccess\obj\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.pdb
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.DataAccess\bin\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.runtimeconfig.json
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.DataAccess\bin\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.runtimeconfig.dev.json
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.DataAccess\obj\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.DataAccess\obj\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.genruntimeconfig.cache

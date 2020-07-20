@@ -1,0 +1,14 @@
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.Business\bin\Debug\netcoreapp3.1\YS_EventManagement.Business.deps.json
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.Business\bin\Debug\netcoreapp3.1\YS_EventManagement.Business.dll
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.Business\bin\Debug\netcoreapp3.1\YS_EventManagement.Business.pdb
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.Business\bin\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.dll
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.Business\bin\Debug\netcoreapp3.1\YS_EventManagement.Entities.dll
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.Business\bin\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.pdb
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.Business\bin\Debug\netcoreapp3.1\YS_EventManagement.Entities.pdb
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.Business\obj\Debug\netcoreapp3.1\YS_EventManagement.Business.csprojAssemblyReference.cache
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.Business\obj\Debug\netcoreapp3.1\YS_EventManagement.Business.AssemblyInfoInputs.cache
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.Business\obj\Debug\netcoreapp3.1\YS_EventManagement.Business.AssemblyInfo.cs
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.Business\obj\Debug\netcoreapp3.1\YS_EventManagement.Business.csproj.CoreCompileInputs.cache
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.Business\obj\Debug\netcoreapp3.1\YS_EventManagement.Business.csproj.CopyComplete
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.Business\obj\Debug\netcoreapp3.1\YS_EventManagement.Business.dll
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.Business\obj\Debug\netcoreapp3.1\YS_EventManagement.Business.pdb

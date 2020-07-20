@@ -1,0 +1,9 @@
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.Entities\bin\Debug\netcoreapp3.1\YS_EventManagement.Entities.deps.json
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.Entities\bin\Debug\netcoreapp3.1\YS_EventManagement.Entities.dll
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.Entities\bin\Debug\netcoreapp3.1\YS_EventManagement.Entities.pdb
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.Entities\obj\Debug\netcoreapp3.1\YS_EventManagement.Entities.csprojAssemblyReference.cache
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.Entities\obj\Debug\netcoreapp3.1\YS_EventManagement.Entities.AssemblyInfoInputs.cache
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.Entities\obj\Debug\netcoreapp3.1\YS_EventManagement.Entities.AssemblyInfo.cs
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.Entities\obj\Debug\netcoreapp3.1\YS_EventManagement.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.Entities\obj\Debug\netcoreapp3.1\YS_EventManagement.Entities.dll
+C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.Entities\obj\Debug\netcoreapp3.1\YS_EventManagement.Entities.pdb

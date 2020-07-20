@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>YS_EventManagement.API</name>
+    </assembly>
+    <members>
+        <member name="M:YS_EventManagement.API.Controllers.ToDosController.GetAllToDos">
+            <summary>
+            Get All ToDO's
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:YS_EventManagement.API.Controllers.ToDosController.GetToDoById(System.Int32)">
+            <summary>
+            Get ToDo's By Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:YS_EventManagement.API.Controllers.ToDosController.GetToDoByName(System.String)">
+            <summary>
+            Get ToDo's By Name
+            </summary>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
+        <member name="M:YS_EventManagement.API.Controllers.ToDosController.GetToDoByIdAndName(System.Int32,System.String)">
+            <summary>
+            Get ToDo's By Id and Name
+            </summary>
+            <param name="id"></param>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
+        <member name="M:YS_EventManagement.API.Controllers.ToDosController.CreateToDo(YS_EventManagement.Entities.ToDo)">
+            <summary>
+            Create an ToDo
+            </summary>
+            <param name="todo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:YS_EventManagement.API.Controllers.ToDosController.UpdateToDo(YS_EventManagement.Entities.ToDo)">
+            <summary>
+            Updadate the ToDo's
+            </summary>
+            <param name="todo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:YS_EventManagement.API.Controllers.ToDosController.DeleteToDo(System.Int32)">
+            <summary>
+            Delete the ToDO
+            </summary>
+            <param name="id"></param>
+        </member>
+    </members>
+</doc>

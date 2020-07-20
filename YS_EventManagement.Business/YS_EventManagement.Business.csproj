@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\YS_EventManagement.DataAccess\YS_EventManagement.DataAccess.csproj" />
+    <ProjectReference Include="..\YS_EventManagement.Entities\YS_EventManagement.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
