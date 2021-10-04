@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Root\\Desktop\\YS_EventManagement\\YS_EventManagement.Business\\YS_EventManagement.Business.csproj": {}
+    "D:\\Flash Disk\\01_01_2021_Desktop\\ProjectsOnDesktop\\.Net-Core-Webapi-3.1-ToDo-s-\\YS_EventManagement.Business\\YS_EventManagement.Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Root\\Desktop\\YS_EventManagement\\YS_EventManagement.Business\\YS_EventManagement.Business.csproj": {
+    "D:\\Flash Disk\\01_01_2021_Desktop\\ProjectsOnDesktop\\.Net-Core-Webapi-3.1-ToDo-s-\\YS_EventManagement.Business\\YS_EventManagement.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Root\\Desktop\\YS_EventManagement\\YS_EventManagement.Business\\YS_EventManagement.Business.csproj",
+        "projectUniqueName": "D:\\Flash Disk\\01_01_2021_Desktop\\ProjectsOnDesktop\\.Net-Core-Webapi-3.1-ToDo-s-\\YS_EventManagement.Business\\YS_EventManagement.Business.csproj",
         "projectName": "YS_EventManagement.Business",
-        "projectPath": "C:\\Users\\Root\\Desktop\\YS_EventManagement\\YS_EventManagement.Business\\YS_EventManagement.Business.csproj",
+        "projectPath": "D:\\Flash Disk\\01_01_2021_Desktop\\ProjectsOnDesktop\\.Net-Core-Webapi-3.1-ToDo-s-\\YS_EventManagement.Business\\YS_EventManagement.Business.csproj",
         "packagesPath": "C:\\Users\\Root\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Root\\Desktop\\YS_EventManagement\\YS_EventManagement.Business\\obj\\",
+        "outputPath": "D:\\Flash Disk\\01_01_2021_Desktop\\ProjectsOnDesktop\\.Net-Core-Webapi-3.1-ToDo-s-\\YS_EventManagement.Business\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Root\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,16 +26,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/FirstTryOrganization/PartsUnlimited_ArtifactsExample/_packaging/PartsUnlimited/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Root\\Desktop\\YS_EventManagement\\YS_EventManagement.DataAccess\\YS_EventManagement.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Root\\Desktop\\YS_EventManagement\\YS_EventManagement.DataAccess\\YS_EventManagement.DataAccess.csproj"
+              "D:\\Flash Disk\\01_01_2021_Desktop\\ProjectsOnDesktop\\.Net-Core-Webapi-3.1-ToDo-s-\\YS_EventManagement.DataAccess\\YS_EventManagement.DataAccess.csproj": {
+                "projectPath": "D:\\Flash Disk\\01_01_2021_Desktop\\ProjectsOnDesktop\\.Net-Core-Webapi-3.1-ToDo-s-\\YS_EventManagement.DataAccess\\YS_EventManagement.DataAccess.csproj"
               },
-              "C:\\Users\\Root\\Desktop\\YS_EventManagement\\YS_EventManagement.Entities\\YS_EventManagement.Entities.csproj": {
-                "projectPath": "C:\\Users\\Root\\Desktop\\YS_EventManagement\\YS_EventManagement.Entities\\YS_EventManagement.Entities.csproj"
+              "D:\\Flash Disk\\01_01_2021_Desktop\\ProjectsOnDesktop\\.Net-Core-Webapi-3.1-ToDo-s-\\YS_EventManagement.Entities\\YS_EventManagement.Entities.csproj": {
+                "projectPath": "D:\\Flash Disk\\01_01_2021_Desktop\\ProjectsOnDesktop\\.Net-Core-Webapi-3.1-ToDo-s-\\YS_EventManagement.Entities\\YS_EventManagement.Entities.csproj"
               }
             }
           }
@@ -44,6 +50,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -59,21 +66,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Root\\Desktop\\YS_EventManagement\\YS_EventManagement.DataAccess\\YS_EventManagement.DataAccess.csproj": {
+    "D:\\Flash Disk\\01_01_2021_Desktop\\ProjectsOnDesktop\\.Net-Core-Webapi-3.1-ToDo-s-\\YS_EventManagement.DataAccess\\YS_EventManagement.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Root\\Desktop\\YS_EventManagement\\YS_EventManagement.DataAccess\\YS_EventManagement.DataAccess.csproj",
+        "projectUniqueName": "D:\\Flash Disk\\01_01_2021_Desktop\\ProjectsOnDesktop\\.Net-Core-Webapi-3.1-ToDo-s-\\YS_EventManagement.DataAccess\\YS_EventManagement.DataAccess.csproj",
         "projectName": "YS_EventManagement.DataAccess",
-        "projectPath": "C:\\Users\\Root\\Desktop\\YS_EventManagement\\YS_EventManagement.DataAccess\\YS_EventManagement.DataAccess.csproj",
+        "projectPath": "D:\\Flash Disk\\01_01_2021_Desktop\\ProjectsOnDesktop\\.Net-Core-Webapi-3.1-ToDo-s-\\YS_EventManagement.DataAccess\\YS_EventManagement.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Root\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Root\\Desktop\\YS_EventManagement\\YS_EventManagement.DataAccess\\obj\\",
+        "outputPath": "D:\\Flash Disk\\01_01_2021_Desktop\\ProjectsOnDesktop\\.Net-Core-Webapi-3.1-ToDo-s-\\YS_EventManagement.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Root\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -81,13 +92,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/FirstTryOrganization/PartsUnlimited_ArtifactsExample/_packaging/PartsUnlimited/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Root\\Desktop\\YS_EventManagement\\YS_EventManagement.Entities\\YS_EventManagement.Entities.csproj": {
-                "projectPath": "C:\\Users\\Root\\Desktop\\YS_EventManagement\\YS_EventManagement.Entities\\YS_EventManagement.Entities.csproj"
+              "D:\\Flash Disk\\01_01_2021_Desktop\\ProjectsOnDesktop\\.Net-Core-Webapi-3.1-ToDo-s-\\YS_EventManagement.Entities\\YS_EventManagement.Entities.csproj": {
+                "projectPath": "D:\\Flash Disk\\01_01_2021_Desktop\\ProjectsOnDesktop\\.Net-Core-Webapi-3.1-ToDo-s-\\YS_EventManagement.Entities\\YS_EventManagement.Entities.csproj"
               }
             }
           }
@@ -100,16 +113,17 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.6, )"
+              "version": "[5.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.6, )"
+              "version": "[5.0.10, )"
             }
           },
           "imports": [
@@ -127,21 +141,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Root\\Desktop\\YS_EventManagement\\YS_EventManagement.Entities\\YS_EventManagement.Entities.csproj": {
+    "D:\\Flash Disk\\01_01_2021_Desktop\\ProjectsOnDesktop\\.Net-Core-Webapi-3.1-ToDo-s-\\YS_EventManagement.Entities\\YS_EventManagement.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Root\\Desktop\\YS_EventManagement\\YS_EventManagement.Entities\\YS_EventManagement.Entities.csproj",
+        "projectUniqueName": "D:\\Flash Disk\\01_01_2021_Desktop\\ProjectsOnDesktop\\.Net-Core-Webapi-3.1-ToDo-s-\\YS_EventManagement.Entities\\YS_EventManagement.Entities.csproj",
         "projectName": "YS_EventManagement.Entities",
-        "projectPath": "C:\\Users\\Root\\Desktop\\YS_EventManagement\\YS_EventManagement.Entities\\YS_EventManagement.Entities.csproj",
+        "projectPath": "D:\\Flash Disk\\01_01_2021_Desktop\\ProjectsOnDesktop\\.Net-Core-Webapi-3.1-ToDo-s-\\YS_EventManagement.Entities\\YS_EventManagement.Entities.csproj",
         "packagesPath": "C:\\Users\\Root\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Root\\Desktop\\YS_EventManagement\\YS_EventManagement.Entities\\obj\\",
+        "outputPath": "D:\\Flash Disk\\01_01_2021_Desktop\\ProjectsOnDesktop\\.Net-Core-Webapi-3.1-ToDo-s-\\YS_EventManagement.Entities\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Root\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -149,10 +167,12 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/FirstTryOrganization/PartsUnlimited_ArtifactsExample/_packaging/PartsUnlimited/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -164,6 +184,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -179,7 +200,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

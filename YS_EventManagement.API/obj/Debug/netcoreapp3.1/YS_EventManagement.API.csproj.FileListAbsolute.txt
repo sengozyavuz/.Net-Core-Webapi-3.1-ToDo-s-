@@ -71,3 +71,150 @@ C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.API\obj\Debug\netcor
 C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.API\obj\Debug\netcoreapp3.1\YS_EventManagement.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.API\obj\Debug\netcoreapp3.1\YS_EventManagement.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.API\bin\Debug\netcoreapp3.1\YS_EventManagement.API.xml
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\YS_EventManagement.API.exe
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\YS_EventManagement.API.deps.json
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\YS_EventManagement.API.runtimeconfig.json
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\YS_EventManagement.API.runtimeconfig.dev.json
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\YS_EventManagement.API.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\YS_EventManagement.API.pdb
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\YS_EventManagement.API.xml
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\YS_EventManagement.Business.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\YS_EventManagement.Entities.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\YS_EventManagement.Business.pdb
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.pdb
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\YS_EventManagement.Entities.pdb
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\obj\Debug\netcoreapp3.1\YS_EventManagement.API.csprojAssemblyReference.cache
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\obj\Debug\netcoreapp3.1\YS_EventManagement.API.AssemblyInfoInputs.cache
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\obj\Debug\netcoreapp3.1\YS_EventManagement.API.AssemblyInfo.cs
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\obj\Debug\netcoreapp3.1\YS_EventManagement.API.csproj.CoreCompileInputs.cache
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\obj\Debug\netcoreapp3.1\YS_EventManagement.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\obj\Debug\netcoreapp3.1\YS_EventManagement.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\obj\Debug\netcoreapp3.1\YS_EventManagement.API.RazorTargetAssemblyInfo.cache
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\obj\Debug\netcoreapp3.1\YS_EventManagement.API.csproj.CopyComplete
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\obj\Debug\netcoreapp3.1\staticwebassets\YS_EventManagement.API.StaticWebAssets.Manifest.cache
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\obj\Debug\netcoreapp3.1\staticwebassets\YS_EventManagement.API.StaticWebAssets.xml
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\obj\Debug\netcoreapp3.1\YS_EventManagement.API.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\obj\Debug\netcoreapp3.1\YS_EventManagement.API.pdb
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\obj\Debug\netcoreapp3.1\YS_EventManagement.API.genruntimeconfig.cache
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\YS_EventManagement.API.exe
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\YS_EventManagement.API.deps.json
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\YS_EventManagement.API.runtimeconfig.json
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\YS_EventManagement.API.runtimeconfig.dev.json
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\YS_EventManagement.API.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\YS_EventManagement.API.pdb
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\YS_EventManagement.API.xml
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\YS_EventManagement.Business.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\YS_EventManagement.Entities.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\YS_EventManagement.Business.pdb
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.pdb
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\bin\Debug\netcoreapp3.1\YS_EventManagement.Entities.pdb
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\obj\Debug\netcoreapp3.1\YS_EventManagement.API.AssemblyInfoInputs.cache
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\obj\Debug\netcoreapp3.1\YS_EventManagement.API.AssemblyInfo.cs
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\obj\Debug\netcoreapp3.1\YS_EventManagement.API.csproj.CoreCompileInputs.cache
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\obj\Debug\netcoreapp3.1\YS_EventManagement.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\obj\Debug\netcoreapp3.1\YS_EventManagement.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\obj\Debug\netcoreapp3.1\staticwebassets\YS_EventManagement.API.StaticWebAssets.Manifest.cache
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\obj\Debug\netcoreapp3.1\staticwebassets\YS_EventManagement.API.StaticWebAssets.xml
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\YS_EventManagement.API.styles.css
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\obj\Debug\netcoreapp3.1\YS_EventManagement.API.RazorTargetAssemblyInfo.cache
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\obj\Debug\netcoreapp3.1\YS_EventManagement.API.csproj.CopyComplete
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\obj\Debug\netcoreapp3.1\YS_EventManagement.API.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\obj\Debug\netcoreapp3.1\YS_EventManagement.API.pdb
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\obj\Debug\netcoreapp3.1\YS_EventManagement.API.genruntimeconfig.cache
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\obj\Debug\netcoreapp3.1\YS_EventManagement.API.csproj.AssemblyReference.cache
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.API\obj\Debug\netcoreapp3.1\YS_EventManagement.API.GeneratedMSBuildEditorConfig.editorconfig

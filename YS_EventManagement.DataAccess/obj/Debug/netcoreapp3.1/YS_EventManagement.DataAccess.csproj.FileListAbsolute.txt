@@ -13,3 +13,34 @@ C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.DataAccess\bin\Debug
 C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.DataAccess\bin\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.runtimeconfig.dev.json
 C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.DataAccess\obj\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.csproj.CoreCompileInputs.cache
 C:\Users\Root\Desktop\YS_EventManagement\YS_EventManagement.DataAccess\obj\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.genruntimeconfig.cache
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.DataAccess\bin\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.deps.json
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.DataAccess\bin\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.runtimeconfig.json
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.DataAccess\bin\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.runtimeconfig.dev.json
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.DataAccess\bin\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.DataAccess\bin\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.pdb
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.DataAccess\bin\Debug\netcoreapp3.1\YS_EventManagement.Entities.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.DataAccess\bin\Debug\netcoreapp3.1\YS_EventManagement.Entities.pdb
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.DataAccess\obj\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.csprojAssemblyReference.cache
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.DataAccess\obj\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.DataAccess\obj\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.AssemblyInfo.cs
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.DataAccess\obj\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.DataAccess\obj\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.csproj.CopyComplete
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.DataAccess\obj\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.dll
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.DataAccess\obj\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.pdb
+C:\Users\Root\Desktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.DataAccess\obj\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.genruntimeconfig.cache
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.DataAccess\bin\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.deps.json
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.DataAccess\bin\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.runtimeconfig.json
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.DataAccess\bin\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.runtimeconfig.dev.json
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.DataAccess\bin\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.DataAccess\bin\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.pdb
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.DataAccess\bin\Debug\netcoreapp3.1\YS_EventManagement.Entities.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.DataAccess\bin\Debug\netcoreapp3.1\YS_EventManagement.Entities.pdb
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.DataAccess\obj\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.AssemblyInfoInputs.cache
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.DataAccess\obj\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.AssemblyInfo.cs
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.DataAccess\obj\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.csproj.CoreCompileInputs.cache
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.DataAccess\obj\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.csproj.CopyComplete
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.DataAccess\obj\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.dll
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.DataAccess\obj\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.pdb
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.DataAccess\obj\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.genruntimeconfig.cache
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.DataAccess\obj\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.csproj.AssemblyReference.cache
+D:\Flash Disk\01_01_2021_Desktop\ProjectsOnDesktop\.Net-Core-Webapi-3.1-ToDo-s-\YS_EventManagement.DataAccess\obj\Debug\netcoreapp3.1\YS_EventManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
